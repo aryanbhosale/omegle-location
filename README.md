@@ -5,7 +5,7 @@ Find anyone's location on Omegle using this code
 
 1. In the JavaScript code, inside the function `fetchLocation(ip)`, change the token ID to your token.
 2. This is because each token is differently linked to the API.
-3. You can easily get your token for free on `hhtps://iplocation.io/`
+3. You can easily get your token for free on `https://ipinfo.io/`.
 
 ## Method : 
 
