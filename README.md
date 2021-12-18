@@ -9,4 +9,4 @@ Find anyone's location on Omegle using this code
 4. Paste the given JavaScript code in the `console` and press `enter`.
 5. Start a video/ voice chat and see the magic ;)
 
-## This is only for educational purposes and should not be misused against any individual/group.
+## This is only for educational purposes and should not be misused by any individual/group.
